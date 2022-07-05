@@ -60,7 +60,13 @@ Tabla 3.6 Comprobación del teorema de Thévenin.
 
 6.- CONCLUSIONES
 
+* Al concluir las simulaciones se pudo comprobar que tanto de forma teórica como experimental el teorema de Thévenin si nos permite reducir el circuito a una sola fuente de voltaje y una sola resistencia.
+
+* Para concluir el voltaje equivalente de Thévenin (VTH) es el voltaje de circuito abierto (sin carga) presente entre dos terminales de salida, mientras que la resistencia equivalente de Thévenin (RTH) es la resistencia total que aparece entre dos terminales .
+
+
 7.- BIBLIOGRAFÍA
+
 
 
 
