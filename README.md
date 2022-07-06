@@ -40,13 +40,19 @@ Objetivo Específicos:
 
 MATERIAL Y EQUIPO REQUERIDO
 
-3.1- Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 2
+![image](https://user-images.githubusercontent.com/105722861/177644465-24ea1586-c2c5-40c2-ad53-f7b4ae0f59a3.png)
 
-3.2- Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 1.
+3.1- Arme el circuito 
 
-3.3- Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 1.
+![image](https://user-images.githubusercontent.com/105722861/177644829-3340ca72-093e-4699-95a0-34d091d70c6b.png)
 
-3.4- Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 2.
+3.2- Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 2
+
+3.3- Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 1.
+
+3.4- Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 1.
+
+3.5- Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 2.
 
 CALCULOS ANALÍTICOS
 
