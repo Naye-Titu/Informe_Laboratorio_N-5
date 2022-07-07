@@ -64,6 +64,10 @@ MATERIAL Y EQUIPO REQUERIDO
 
 CALCULOS ANALÍTICOS
 
+![image](https://user-images.githubusercontent.com/105722861/177687593-7348e3ec-5a8d-465d-ad7c-f176c0fc03a7.png)
+
+![image](https://user-images.githubusercontent.com/105722861/177687696-5042ec86-914e-45f5-a2b8-6666386bba2c.png)
+
 Tabla 3.5 Valores del circuito equivalente de Thévenin
 
 ![image](https://user-images.githubusercontent.com/105722861/177662598-6d12afca-d4e6-49ff-8823-ee0400db2efd.png)
@@ -74,7 +78,7 @@ Tabla 3.6 Comprobación del teorema de Thévenin.
 
 4.- CALCULO DE ERRORES
 
-![image](https://user-images.githubusercontent.com/105722861/177671999-633715d9-59f1-430b-9e07-ba0469e30940.png)
+![image](https://user-images.githubusercontent.com/105722861/177687657-5d4f41e2-998d-4d2b-beff-b9af6fb830e2.png)
 
 5.- VIDEO
 
@@ -84,9 +88,10 @@ Tabla 3.6 Comprobación del teorema de Thévenin.
 
 * Para concluir el voltaje equivalente de Thévenin (VTH) es el voltaje de circuito abierto (sin carga) presente entre dos terminales de salida, mientras que la resistencia equivalente de Thévenin (RTH) es la resistencia total que aparece entre dos terminales .
 
-
 7.- BIBLIOGRAFÍA
 
-* 
+* Floyd, T. (2007). Principios de circuitos eléctricos (8va ed), México DF, México: Pearson Educación.
+
+* Roobins, A y Miller, W. (2007). Análisis de circuitos teoría y práctica (4ta ed), México DF, México: Cengage Learning.
 
 
