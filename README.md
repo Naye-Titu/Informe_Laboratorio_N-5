@@ -87,6 +87,6 @@ Tabla 3.6 Comprobación del teorema de Thévenin.
 
 7.- BIBLIOGRAFÍA
 
-
+* 
 
 
