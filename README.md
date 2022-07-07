@@ -66,7 +66,11 @@ CALCULOS ANALÍTICOS
 
 Tabla 3.5 Valores del circuito equivalente de Thévenin
 
+![image](https://user-images.githubusercontent.com/105722861/177662598-6d12afca-d4e6-49ff-8823-ee0400db2efd.png)
+
 Tabla 3.6 Comprobación del teorema de Thévenin.
+
+![image](https://user-images.githubusercontent.com/105722861/177662680-bf5cc861-3ed7-4acf-8c77-015f603d8a49.png)
 
 4.- CALCULO DE ERRORES
 
