@@ -74,6 +74,8 @@ Tabla 3.6 Comprobación del teorema de Thévenin.
 
 4.- CALCULO DE ERRORES
 
+![image](https://user-images.githubusercontent.com/105722861/177671723-2fe83ea6-5ad1-4c1e-87d4-4c3f33ee4e55.png)
+
 5.- VIDEO
 
 6.- CONCLUSIONES
